@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.chroma/
+*.db
+.env
+.pytest_cache/
+lcm-engine.egg-info/
+build/
+dist/

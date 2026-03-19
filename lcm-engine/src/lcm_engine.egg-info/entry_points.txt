@@ -1,0 +1,2 @@
+[console_scripts]
+lcm-engine = lcm_engine.main:app
