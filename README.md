@@ -229,7 +229,8 @@ Extensibility
 MIT License - See LICENSE for details.
 
 ## 👨‍💻 Team
-**Team Name:** Pixel Pusher  
+**Team Name:** Pixel Pusher
+**Name:** Aditya Prasad
 **Hackathon:** GENZ-GEN AI INTEL UNNATI PROGRAM 25-26  
 **Problem Statement:** PS 4 - Legacy Code Modernization Engine  
 
